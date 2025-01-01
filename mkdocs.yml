@@ -1,0 +1,32 @@
+site_name: Immi Wiki
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.top
+  hide:
+  navigation: true  # 隐藏左侧边栏
+
+plugins:
+  - search
+
+extra_css:
+  - overrides/custom.css
+
+
+nav:
+  - 首页: index.md
+  - 导航: nav.md
+  - EB 职业移民:
+      - EB1: EB/EB1.md
+      - EB2: EB/EB2.md
+      - EB3: EB/EB3.md
+      - EB4: EB/EB4.md
+      - EB5: EB/EB5.md
+  - 学生及学术交流签证:
+      - F1: student/F1.md
+      - J1: student/J1.md
+  - 婚姻绿卡:
+      - 公民: marriage/citizen.md
+      - 永久居民: marriage/pr.md
+      

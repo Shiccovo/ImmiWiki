@@ -1,0 +1,10 @@
+/* 扩展正文宽度 */
+.md-content {
+    max-width: 1200px; /* 调整为更宽的值 */
+    margin: 0 auto;    /* 居中对齐 */
+}
+
+/* 隐藏侧边栏 */
+.md-sidebar {
+    display: none;
+}
