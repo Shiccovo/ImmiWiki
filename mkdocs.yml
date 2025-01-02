@@ -29,4 +29,6 @@ nav:
   - 婚姻绿卡:
       - 公民: marriage/citizen.md
       - 永久居民: marriage/pr.md
-      
+      - Rest of World: marriage/row.md
+  - 常见缩写和名词解释: words.md
+  
